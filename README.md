@@ -114,7 +114,7 @@ Install Odoo with Docker
     ```
 8. Copy file odoo.conf to folder config
 
-REFERENCE
+REFERENCES
 
 [1] Install Docker: https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
