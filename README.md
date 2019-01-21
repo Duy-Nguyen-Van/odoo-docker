@@ -7,6 +7,7 @@ Install Odoo with Docker
     Before you install Docker CE for the first time on a new host machine, you need to set up the Docker repository. Afterward, you can install and update Docker from the repository.
 
     SET UP THE REPOSITORY
+    
     Update the apt package index:
     ```
     $ sudo apt-get update
