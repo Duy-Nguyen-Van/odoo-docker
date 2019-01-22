@@ -91,12 +91,12 @@ Install Odoo with Docker
     docker-compose version 1.23.2, build 1110ad01
     ```
 
-3. Install Odoo [3]
+3. Install Odoo (Recommended to install version 11) [3]
     ```
     sudo docker pull odoo:<version>
     ```
 
-4. Install Postges [4]
+4. Install Postges (Recommended to install version 10) [4]
     ```
     sudo docker pull postgres:<version>
     ```
@@ -106,7 +106,7 @@ Install Odoo with Docker
     sudo mkdir <dir_name>
     ```
 
-6. Copy docker-compose.yml to directory
+6. Copy file docker-compose.yml to directory created
 
 7. Run docker
     ```
