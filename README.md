@@ -103,16 +103,22 @@ Install Odoo with Docker
 
 5. Create new directory
     ```
-    sudo mkdir <dir_name>
+    mkdir <dir_name>
     ```
 
 6. Copy file docker-compose.yml to directory created
+    ```
+    sudo cp /path/to/docker-compose.yml /path/to/<dir_name>
+    ```
 
 7. Run docker
     ```
     sudo docker-compose up 
     ```
 8. Copy file odoo.conf to folder config
+    ```
+    sudo cp /path/to/odoo.conf /path/to/<dir_name>/config
+    ```
 
 REFERENCES
 
