@@ -119,6 +119,11 @@ Install Odoo with Docker
     ```
     sudo cp /path/to/odoo.conf /path/to/<dir_name>/config
     ```
+9. Open browser and go to
+    ```
+    localhost:8069
+    ```
+    enjoy it!!!!
 
 REFERENCES
 
