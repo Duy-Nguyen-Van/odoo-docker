@@ -113,13 +113,17 @@ Install Odoo with Docker
 
 7. Run docker
     ```
-    sudo docker-compose up 
+    sudo docker-compose up -d
     ```
 8. Copy file odoo.conf to folder config
     ```
     sudo cp /path/to/odoo.conf /path/to/<dir_name>/config
     ```
-9. Open browser and go to
+9. Run docker
+    ```
+    sudo docker-compose up
+    ```
+10. Open browser and go to
     ```
     localhost:8069
     ```
