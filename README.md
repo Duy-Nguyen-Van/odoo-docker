@@ -170,3 +170,5 @@
 [3] Install Odoo: https://hub.docker.com/_/odoo
 
 [4] Install Postgres: https://hub.docker.com/_/postgres
+
+[5] Connect PostgresSQL: https://stackoverflow.com/questions/45637206/is-the-server-running-on-host-localhost-1-and-accepting-tcp-ip-connections#comment78276789_45638423
