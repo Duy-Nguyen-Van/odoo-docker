@@ -1,5 +1,5 @@
 # odoo-docker
-Install Odoo with Docker
+# Install Odoo with Docker
 
 1. Install Docker CE [1]
 
@@ -129,7 +129,7 @@ Install Odoo with Docker
     ```
     enjoy it!!!!
 
-Connect PostgresSQL
+# Connect PostgresSQL
 
 1. Go to pgAdmin 4
     email: admin
@@ -137,7 +137,7 @@ Connect PostgresSQL
     ```
     localhost:5555
     ```
-    
+
 2. Click "Add New Server"
 <img src="/images/pic_1.png">
 
@@ -159,7 +159,7 @@ Connect PostgresSQL
 5. If the connection is successful, it will look like the picture
 <img src="/images/pic_4.png">
 
-REFERENCES
+# REFERENCES
 
 [1] Install Docker: https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
