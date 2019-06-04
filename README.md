@@ -132,10 +132,12 @@
 # Connect PostgresSQL
 
 1. Go to pgAdmin 4
-    email: admin
-    password: admin
     ```
     localhost:5555
+    ```
+    ```
+    email: admin
+    password: admin
     ```
 
 2. Click "Add New Server"
